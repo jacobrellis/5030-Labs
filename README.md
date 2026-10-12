@@ -6,3 +6,5 @@
 * I worked with Liam Hopkins on this assignment in class 9/17, and we got through question 1 of the lab. However, all work accomplished after class is my own.
 ### LAB 5
 * I worked with Jisung Lee and Liam Hopkins in class on 9/24, but all work after class was on my own.
+### LAB 6
+* I worked by myself on this assignment.
