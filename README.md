@@ -8,5 +8,7 @@
 * I worked with Jisung Lee and Liam Hopkins in class on 9/24, but all work after class was on my own.
 ### LAB 6
 * I worked by myself on this assignment.
-### Lab 7
+### LAB 7
 * I worked by myself on this assignment.
+### LAB 8
+* I worked by myself on this assignment
