@@ -12,3 +12,5 @@
 * I worked by myself on this assignment.
 ### LAB 8
 * I worked by myself on this assignment
+### LAB 9
+* I worked with Liam Hopkins on this assignment in class on 10/29, but after class worked on my own.
